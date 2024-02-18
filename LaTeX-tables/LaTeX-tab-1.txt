@@ -1,0 +1,19 @@
+
+\begin{tabular}{lrrrr}
+\toprule
+\multicolumn{1}{c}{ } & \multicolumn{2}{c}{Exp. 1 VI 30} & \multicolumn{2}{c}{Exp. 2 VI 35} \\
+\cmidrule(l{3pt}r{3pt}){2-3} \cmidrule(l{3pt}r{3pt}){4-5}
+Bird & First Peck VI 30 & Overall VI 30 & First Peck VI 35 & Overall VI 35\\
+\midrule
+34 & 0.00 & 0.01 & 0.00 & 0.00\\
+43 & 0.43 & 0.58 &  & \\
+48 & 0.77 & 0.22 & 0.30 & 0.14\\
+1332 & 0.27 & 0.05 &  & \\
+1349 & 0.70 & 0.13 & 0.40 & 0.03\\
+\addlinespace
+4 &  &  & 0.00 & 0.03\\
+392 &  &  & 0.20 & 0.12\\
+\midrule
+Mean & 0.43 & 0.20 & 0.18 & 0.06\\
+\bottomrule
+\end{tabular}

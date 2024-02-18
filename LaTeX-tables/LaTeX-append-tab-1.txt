@@ -1,0 +1,17 @@
+
+\begin{tabular}{lrr}
+\toprule
+\multicolumn{1}{c}{ } & \multicolumn{2}{c}{Initial-Link Schedule} \\
+\cmidrule(l{3pt}r{3pt}){2-3}
+Bird & FR 1 & VI 30\\
+\midrule
+34 & 0.90 & 0.00\\
+43 & 0.90 & 0.43\\
+48 & 0.97 & 0.77\\
+1332 & 0.97 & 0.27\\
+1349 & 1.00 & 0.70\\
+\midrule
+\addlinespace
+Mean & 0.95 & 0.43\\
+\bottomrule
+\end{tabular}
