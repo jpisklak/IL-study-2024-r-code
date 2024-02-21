@@ -1,8 +1,8 @@
 
 \begin{tabular}{lrrr}
 \toprule
-\multicolumn{1}{c}{ } & \multicolumn{2}{c}{Initial-Link Schedule} \\
-\cmidrule(l{3pt}r{3pt}){2-3}
+\multicolumn{1}{c}{ } & \multicolumn{3}{c}{Initial-Link Schedule} \\
+\cmidrule(l{3pt}r{3pt}){2-4}
 Bird & VI 4.75 & VI 35 & VI 1.7\\
 \midrule
 4 & 0.93 & 0.00 & \\

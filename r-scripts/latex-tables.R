@@ -100,7 +100,7 @@ append_tab_2 <- select(append_tab_2, Bird, `VI 4.75`, `VI 35`, `VI 1.7`)
 sink("../LaTeX-tables/LaTeX-append-tab-2.txt")
 append_tab_2 %>%
   kable(format = "latex", booktabs = TRUE, digits = 2) %>%
-  add_header_above(header = c(" " = 1, "Initial-Link Schedule" = 2)) %>%
+  add_header_above(header = c(" " = 1, "Initial-Link Schedule" = 3)) %>%
   row_spec(10, hline_after = TRUE)
 sink()
 
