@@ -4,7 +4,7 @@
 
 This repository contains the data file and R code associated with the study titled "Temporal Context Effects on Suboptimal Choice" by McDevitt, M. A., Pisklak, J. M., Dunn, R. M., & Spetch, M. L. (2024) published in *Psychonomic Bulletin & Review*.
 
-- Snapshot as of 14/05/2024 is preserved on the Open Science Framework: [osf.io/kpxzr](osf.io/kpxzr)
+- Snapshot as of 14/05/2024 is preserved on the Open Science Framework: [https://osf.io/kpxzr](https://osf.io/kpxzr)
 
 - GitHub Repository: [https://github.com/jpisklak/IL-study-2024-r-code](https://github.com/jpisklak/IL-study-2024-r-code)
 
