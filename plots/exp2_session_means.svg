@@ -191,19 +191,22 @@
 <polyline points='106.06,113.14 108.80,113.14 ' style='stroke-width: 1.07; stroke: #333333; stroke-linecap: butt;' />
 <text x='618.59' y='546.12' text-anchor='middle' style='font-size: 36.00px; font-family: "Arial";' textLength='128.08px' lengthAdjust='spacingAndGlyphs'>Session</text>
 <text transform='translate(31.26,289.28) rotate(-90)' text-anchor='middle' style='font-size: 36.00px; font-family: "Arial";' textLength='478.29px' lengthAdjust='spacingAndGlyphs'>Suboptimal Choice Proportion</text>
-<rect x='360.97' y='564.66' width='515.24' height='53.48' style='stroke-width: 0.75; stroke: #FFFFFF; fill: #FFFFFF;' />
-<text x='428.72' y='601.43' text-anchor='middle' style='font-size: 28.00px; font-family: "Arial";' textLength='124.55px' lengthAdjust='spacingAndGlyphs'>Schedule:</text>
-<line x1='507.77' y1='591.40' x2='530.45' y2='591.40' style='stroke-width: 1.07; stroke: #1B9E77; stroke-opacity: 0.30; stroke-linecap: butt;' />
-<line x1='507.77' y1='591.40' x2='530.45' y2='591.40' style='stroke-width: 3.20; stroke: #1B9E77; stroke-linecap: butt;' />
-<circle cx='519.11' cy='591.40' r='5.69' style='stroke-width: 2.83; stroke: #1B9E77; fill: #FFFFFF;' />
+<rect x='386.37' y='564.66' width='464.43' height='53.48' style='stroke-width: 0.75; stroke: #FFFFFF; fill: #FFFFFF;' />
+<text x='454.12' y='601.43' text-anchor='middle' style='font-size: 28.00px; font-family: "Arial";' textLength='124.55px' lengthAdjust='spacingAndGlyphs'>Schedule:</text>
+<rect x='521.88' y='570.14' width='28.35' height='42.52' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<line x1='524.71' y1='591.40' x2='547.39' y2='591.40' style='stroke-width: 1.07; stroke: #1B9E77; stroke-opacity: 0.30; stroke-linecap: butt;' />
+<line x1='524.71' y1='591.40' x2='547.39' y2='591.40' style='stroke-width: 3.20; stroke: #1B9E77; stroke-linecap: butt;' />
+<circle cx='536.05' cy='591.40' r='5.69' style='stroke-width: 2.83; stroke: #1B9E77; fill: #FFFFFF;' />
+<rect x='643.56' y='570.14' width='28.35' height='42.52' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
 <line x1='646.40' y1='591.40' x2='669.08' y2='591.40' style='stroke-width: 1.07; stroke: #D95F02; stroke-opacity: 0.30; stroke-linecap: butt;' />
 <line x1='646.40' y1='591.40' x2='669.08' y2='591.40' style='stroke-width: 3.20; stroke: #D95F02; stroke-linecap: butt;' />
 <polygon points='657.74,582.56 665.39,595.82 650.08,595.82 ' style='stroke-width: 2.83; stroke: #D95F02; fill: #FFFFFF;' />
-<line x1='770.57' y1='591.40' x2='793.24' y2='591.40' style='stroke-width: 1.07; stroke: #7570B3; stroke-opacity: 0.30; stroke-linecap: butt;' />
-<line x1='770.57' y1='591.40' x2='793.24' y2='591.40' style='stroke-width: 3.20; stroke: #7570B3; stroke-linecap: butt;' />
-<rect x='776.87' y='586.36' width='10.08' height='10.08' style='stroke-width: 2.83; stroke: #7570B3; fill: #FFFFFF;' />
-<text x='547.23' y='600.71' style='font-size: 26.00px; font-family: "Arial";' textLength='82.38px' lengthAdjust='spacingAndGlyphs'>VI 4.75</text>
-<text x='685.86' y='600.71' style='font-size: 26.00px; font-family: "Arial";' textLength='67.92px' lengthAdjust='spacingAndGlyphs'>VI 1.7</text>
-<text x='810.02' y='600.71' style='font-size: 26.00px; font-family: "Arial";' textLength='60.70px' lengthAdjust='spacingAndGlyphs'>VI 35</text>
+<rect x='750.79' y='570.14' width='28.35' height='42.52' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<line x1='753.63' y1='591.40' x2='776.31' y2='591.40' style='stroke-width: 1.07; stroke: #7570B3; stroke-opacity: 0.30; stroke-linecap: butt;' />
+<line x1='753.63' y1='591.40' x2='776.31' y2='591.40' style='stroke-width: 3.20; stroke: #7570B3; stroke-linecap: butt;' />
+<rect x='759.93' y='586.36' width='10.08' height='10.08' style='stroke-width: 2.83; stroke: #7570B3; fill: #FFFFFF;' />
+<text x='555.70' y='600.71' style='font-size: 26.00px; font-family: "Arial";' textLength='82.38px' lengthAdjust='spacingAndGlyphs'>VI 4.75</text>
+<text x='677.39' y='600.71' style='font-size: 26.00px; font-family: "Arial";' textLength='67.92px' lengthAdjust='spacingAndGlyphs'>VI 1.7</text>
+<text x='784.62' y='600.71' style='font-size: 26.00px; font-family: "Arial";' textLength='60.70px' lengthAdjust='spacingAndGlyphs'>VI 35</text>
 </g>
 </svg>

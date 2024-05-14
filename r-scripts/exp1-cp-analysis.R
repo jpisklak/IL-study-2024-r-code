@@ -7,7 +7,7 @@ library(nlme)
 library(rsq)
 
 # Import Data
-full_data <- read_csv('../Data/exp-data.csv')
+full_data <- read_csv('../data/exp-data.csv')
 sess_list <- c(14:16, 44:46) # Last 3 sessions
 
 exp1 <- full_data %>%

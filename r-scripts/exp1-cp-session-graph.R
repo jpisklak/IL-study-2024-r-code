@@ -7,7 +7,7 @@ options(
 )
 
 # Import Data
-full_data <- read_csv("../Data/exp-data.csv")
+full_data <- read_csv("../data/exp-data.csv")
 exp1 <- full_data %>%
   filter(exp == 1) %>%
   select(exp, subject, condition, session, pks_sub, pks_opt)

@@ -16,7 +16,7 @@ theme_custom <- function() {
       legend.key.height = unit(1.5, "cm"),
       legend.title = element_text(size = 28, hjust = 0.5),
       legend.text = element_text(size = 26),
-      legend.position = "none",
+      #legend.position = "none",
       legend.background = element_blank(),
       legend.box.background = element_rect(colour = "black")
     )

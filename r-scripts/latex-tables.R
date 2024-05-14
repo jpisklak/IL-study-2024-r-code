@@ -1,6 +1,6 @@
 library(knitr)
 library(kableExtra)
-source('first-pk-analysis.R')
+source('all-first-pk-analysis.R')
 options(knitr.kable.NA = '')
 
 # LaTeX Tables

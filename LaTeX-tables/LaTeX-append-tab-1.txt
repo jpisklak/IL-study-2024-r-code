@@ -10,7 +10,7 @@ Bird & FR 1 & VI 30\\
 48 & 0.97 & 0.77\\
 1332 & 0.97 & 0.27\\
 1349 & 1.00 & 0.70\\
-\midrule
+\midrule\\
 \addlinespace
 Mean & 0.95 & 0.43\\
 \bottomrule

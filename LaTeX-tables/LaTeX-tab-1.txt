@@ -13,7 +13,7 @@ Bird & First Peck VI 30 & Overall VI 30 & First Peck VI 35 & Overall VI 35\\
 \addlinespace
 4 &  &  & 0.00 & 0.03\\
 392 &  &  & 0.20 & 0.12\\
-\midrule
+\midrule\\
 Mean & 0.43 & 0.20 & 0.18 & 0.06\\
 \bottomrule
 \end{tabular}

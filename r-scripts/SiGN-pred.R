@@ -137,6 +137,8 @@ sum_stats$condition <- factor(sum_stats$condition,
   )
 )
 
+write_csv(sum_stats, "../data/predictions.csv")
+
 # Plot
 #-------------------------------------------------------
 # Regression for plot
@@ -169,7 +171,8 @@ ggplot(sum_stats, aes(x = SiGN, y = cp)) +
   ) +
   
   scale_shape_manual(values = c(21:25)) +
-  guides(shape = guide_legend(override.aes = list(size = 7.5))) +
+  guides(shape = guide_legend(override.aes = list(size = 7.5),
+                              position = 'inside')) +
   scale_fill_manual(values = brewer.pal(n = 8, name = "Dark2")) +
   
   geom_abline(
@@ -200,10 +203,11 @@ ggplot(sum_stats, aes(x = SiGN, y = cp)) +
   ) +
   xlab("Predicted Choice Proportion") +
   ylab("Obtained Choice Proportion") +
+  #guides(shape = guide_legend(position = 'inside')) +
   
   theme_custom() +
   theme(
-    legend.position = c(0.85, 0.30),
+    legend.position.inside = c(0.85, 0.30),
     legend.key.width = unit(1, "cm"),
     legend.key.height = unit(1.5, "cm"),
     legend.background = element_rect(
