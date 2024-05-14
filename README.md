@@ -2,17 +2,19 @@
 
 ## Overview
 
-This repository contains the data file and R code associated with the study titled *Temporal Context Effects on Suboptimal Choice* by McDevitt, M. A., Pisklak, J. M., Dunn, R. M., & Spetch, M. L. (2024).
+This repository contains the data file and R code associated with the study titled "Temporal Context Effects on Suboptimal Choice" by McDevitt, M. A., Pisklak, J. M., Dunn, R. M., & Spetch, M. L. (2024) published in *Psychonomic Bulletin & Review*.
 
 ## Contents
 
 The directory, file, and variable names within this repository are designed to be self-explanatory.
 
+`data/exp-data.csv` is a comma-separated values (.CSV) spreadsheet comprising all the raw data employed in the various analyses.
+
 ## Citation
 
 If you use any data or code from this repository in your work, please cite the original study:
 
-McDevitt, M. A., Pisklak, J. M., Dunn, R. M., & Spetch, M. L. (2024). *Temporal Context Effects on Suboptimal Choice.*
+McDevitt, M. A., Pisklak, J. M., Dunn, R. M., & Spetch, M. L. (2024). Temporal Context Effects on Suboptimal Choice. *Psychonomic Bulletin & Review*. https://doi.org/10.3758/s13423-024-02519-y
 
 
 
