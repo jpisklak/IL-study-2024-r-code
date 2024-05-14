@@ -10,11 +10,25 @@ The directory, file, and variable names within this repository are designed to b
 
 `data/exp-data.csv` is a comma-separated values (.CSV) spreadsheet comprising all the raw data employed in the various analyses.
 
+Below are common abbreviations used throughout the code:
+
+- `cp`: Choice Proportion
+- `DR`: Delay Reduction
+- `exp`: Experiment (e.g., `exp1` refers to Experiment 1)
+- `IL`: Initial Link
+- `pk`: Peck
+- `pred`: Prediction
+- `reg`: Regression
+- `sig`: Signaled
+- `tab`: Table
+- `TL`: Terminal Link
+- `TR`: Terminal Reinforcer/Reinforcement
+
 ## Citation
 
 If you use any data or code from this repository in your work, please cite the original study:
 
-McDevitt, M. A., Pisklak, J. M., Dunn, R. M., & Spetch, M. L. (2024). Temporal Context Effects on Suboptimal Choice. *Psychonomic Bulletin & Review*. https://doi.org/10.3758/s13423-024-02519-y
+McDevitt, M. A., Pisklak, J. M., Dunn, R. M., & Spetch, M. L. (2024). Temporal context effects on suboptimal choice. *Psychonomic Bulletin & Review*. https://doi.org/10.3758/s13423-024-02519-y
 
 
 
